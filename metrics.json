@@ -1,0 +1,7 @@
+{
+    "model": "openai/whisper-small",
+    "dataset": "LibriSpeech",
+    "samples": 20,
+    "word_error_rate": 0.0227,
+    "accuracy": 97.73
+}
